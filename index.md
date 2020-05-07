@@ -1,7 +1,7 @@
 # [eZpráva](https://ezprava.net)
 ## šifrované zprávy
 ### lékařské
-- napsané v eZprávě
+- napsané v eZprávě!
 - virtuální tiskárna
 - scanner a OCR
 - export z ambulantního SW do DS
