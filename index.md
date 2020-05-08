@@ -18,7 +18,6 @@
 
 ## moduly
 ### [eNeschopenka](https://docs.google.com/document/d/1Zs1mjracVOD29KJVtmhDHq2MNk5WhG_8qMyyiWvlHTI)
-- plná funkcionalita dle ČSSZ
 - odeslání emailem pacientovi
 - zjištění bydliště
 - zjištění zaměstnavatele
@@ -27,7 +26,7 @@
 - léky s nižším doplatkem
 - [chytrá preskripce (v přípravě)](https://docs.google.com/document/d/1Hi8wJtMSpOb8BKpeC3BbwyF6l5wz9NF2ss4T3zKTExo/)
 ### [EET](https://docs.google.com/document/d/1YXcFJGjW_YOxKuPVjgXdCL_Sy0qBIDdd318Vl2Eg2tA)
-### elektronické pacientské dotazníky
+### [elektronické pacientské dotazníky](https://docs.google.com/document/d/16Xp4420WuXOV6ptvaDmJlNH0IAs9cM5vYCAwC2xCy-c/)
 - monitorace TK
 - anamnéza
 ### [Validátor DS4](https://ezprava.net/ds4)
