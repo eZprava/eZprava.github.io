@@ -26,12 +26,18 @@
 - léky s nižším doplatkem
 - [chytrá preskripce (v přípravě)](https://docs.google.com/document/d/1Hi8wJtMSpOb8BKpeC3BbwyF6l5wz9NF2ss4T3zKTExo/)
 ### [EET](https://docs.google.com/document/d/1YXcFJGjW_YOxKuPVjgXdCL_Sy0qBIDdd318Vl2Eg2tA)
+### [Validátor DS4](https://ezprava.net/ds4)
+### [dlouhodobá archivace (ERS)](https://docs.google.com/document/d/1QAonFuSOaWJ88awGCUAs8Jz2IVbrhdVfyBZx703M-_8)
+### vlastní web Vašeho pracoviště na eZprava.net
+
+## komunikace s pacientem
 ### [elektronické pacientské dotazníky](https://docs.google.com/document/d/16Xp4420WuXOV6ptvaDmJlNH0IAs9cM5vYCAwC2xCy-c/)
 - monitorace TK
 - anamnéza
-### [Validátor DS4](https://ezprava.net/ds4)
-### [dlouhodobá archivace](https://docs.google.com/document/d/1QAonFuSOaWJ88awGCUAs8Jz2IVbrhdVfyBZx703M-_8)
-### vlastní web Vašeho pracoviště na eZprava.net
+- obecná zpráva
+### odeslání emailu s šifrovaným PDF
+### objednávkový systém
+
 ## integrace
 ### B2B VZP
 - zjištění registrujícího lékaře
@@ -48,3 +54,9 @@
 - RDG
 
 ## [mapa uživatelů](https://ezprava.net/uzivatele.html)
+
+## pomocné programy
+- ErsClient
+- [DastaIndexer](https://ezprava.net/DastaIndexer.rar)
+- DastaMover
+- ZobrazitHesla
