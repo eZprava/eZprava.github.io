@@ -2,7 +2,7 @@
 ## [šifrované](https://ezprava.net/ezprava.pdf) zprávy
 ### lékařské
 - napsané v eZprávě
-- virtuální tiskárna
+- [virtuální tiskárna](https://docs.google.com/document/d/1-0ye8J10lCAV0GusRe7Er28ygvMjy_ksJ0D99PGc1XI/edit#bookmark=id.ffzgk0o5qyok)
 - scanner a OCR
 - export z ambulantního SW do DS
 - laboratorní výsledky
@@ -43,10 +43,6 @@
 - zjištění registrujícího lékaře
 - zjištění ZP
 ### lékařské IS
-- IS GALEN
-- SmartMedics
-- ZDRAVEL
-- NavstevaLekare.cz
 
 ## [serverová verze](https://docs.google.com/document/d/1xbt-hgWLakeKyGMubvh1JMWpPUWHwXkCgmM3GLdujU0/edit)
 - Laboratoře
