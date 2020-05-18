@@ -49,7 +49,9 @@
 - Nemocnice
 - RDG
 
-## [mapa uživatelů](https://ezprava.net/uzivatele.html)
+## uživatelé
+- [mapa a statistiky](https://ezprava.net/uzivatele.html)
+- [seznam certifikátů](https://dotnetfiddle.net/UAeS2v)
 
 ## pomocné programy
 - ErsClient
